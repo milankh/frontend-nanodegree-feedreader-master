@@ -10,9 +10,9 @@ In this project we are given a web-based application that reads RSS feeds. We ar
 
 ## Technologies Used
 
--Javascript
--JQuery
--HTML/CSS
--Jasmine For testing
+- Javascript
+- JQuery
+- HTML/CSS
+- Jasmine For testing
 
 
